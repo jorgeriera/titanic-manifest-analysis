@@ -1,1 +1,3 @@
-# titanic-manifest-analysis
+# Titanic Manifest Analysis
+
+View jupyter notebook for complete analysis.
