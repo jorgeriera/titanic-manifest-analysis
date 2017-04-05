@@ -1,3 +1,3 @@
 # Titanic Manifest Analysis
 
-View jupyter notebook for complete analysis.
+View Titanic_Survival.ipynb for complete analysis.
